@@ -1,0 +1,1 @@
+Here  saas stands for software as a service which allows user to access amy software from the cloud.As per the application requirements user need to select the software and able to access the services which are related to that.
